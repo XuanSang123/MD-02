@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "662a",
+      "student_name": "maaaa",
+      "email": "sang",
+      "address": "hn",
+      "phone": "dn",
+      "status": true,
+      "create_at": "2024-05-15T08:09:41.939Z"
+    },
+    {
+      "id": "197a",
+      "student_name": "tinh",
+      "email": " 1",
+      "address": "hn",
+      "phone": "dn",
+      "status": true,
+      "create_at": "2024-05-16T03:04:47.475Z"
+    },
+    {
+      "id": "4391",
+      "student_name": "maaaa123132",
+      "email": " 1",
+      "address": "hn",
+      "phone": "dn",
+      "status": true,
+      "create_at": "2024-05-16T03:04:41.603Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "student_name": "Huỳnh Công Tính",
+      "email": "huynhcongtinh@gmail.com",
+      "address": "Long An",
+      "phone": "01234567890",
+      "status": false,
+      "create_at": "13-05-1998"
+    },
+    {
+      "id": "1371",
+      "student_name": "sang",
+      "email": "123",
+      "address": "123123",
+      "phone": "123123",
+      "status": false,
+      "create_at": "2024-05-15T04:43:21.419Z"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "content": "This is my first post",
+      "thumbnail": "https://via.placeholder.com/150",
+      "created_at": "2021-01-01T00:00:00Z",
+      "created_by": "John Doe",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Nice post",
+          "created_at": "2022-01-01T00:00:00Z",
+          "created_by": "Jane Doe"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Byre Thầy Duy e đi đây ",
+      "content": "This is my first post",
+      "thumbnail": "https://via.placeholder.com/150",
+      "created_at": "2025-01-01T00:00:00Z",
+      "created_by": "John Doe",
+      "comments": [
+        {
+          "id": 7,
+          "content": "Nice post",
+          "created_at": "2025-01-01T00:00:00Z",
+          "created_by": "Jane Doe"
+        }
+      ]
+    },
+    {
+      "title": "Hello World",
+      "content": "This is my first post",
+      "thumbnail": "https://via.placeholder.com/150",
+      "created_at": "2020-01-01T00:00:00Z",
+      "created_by": "John Doe",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Nice post",
+          "created_at": "2029-01-01T00:00:00Z",
+          "created_by": "Jane Doe"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "id": 15,
+      "title": "Hello World",
+      "content": "This is my first post",
+      "thumbnail": "https://via.placeholder.com/150",
+      "created_at": "2020-01-01T00:00:00Z",
+      "created_by": "John Doe",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Nice post",
+          "created_at": "2027-01-01T00:00:00Z",
+          "created_by": "Jane Doe"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Byre Thầy Duy ",
+      "content": "This is my first post",
+      "thumbnail": "https://via.placeholder.com/150",
+      "created_at": "2033-01-01T00:00:00Z",
+      "created_by": "John Doe",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Nice post",
+          "created_at": "2033-01-01T00:00:00Z",
+          "created_by": "Jane Doe"
+        }
+      ]
+    }
+  ]
+}

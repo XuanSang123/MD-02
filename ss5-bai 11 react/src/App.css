@@ -1,0 +1,134 @@
+#root {
+  display: flex;
+  gap: 150px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.list {
+  display: flex;
+  gap: 50px;
+  margin-top: 30px;
+}
+.studentinfor_form {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 20px;
+}
+.studentinfor_form--input {
+  display: flex;
+  gap: 50px;
+}
+.list_btn--themmoi {
+  width: 200px;
+  height: 36px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(13, 54, 192, 0.825);
+  cursor: pointer;
+}
+.list_input--themmoi {
+  width: 220px;
+  height: 30px;
+  padding-left: 20px;
+}
+.list_btn--timkiem {
+  width: 100px;
+  height: 36px;
+  font-size: 14px;
+  margin-left: 10px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(13, 54, 192, 0.825);
+  cursor: pointer;
+}
+.list_btn--sapxep {
+  height: 36px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(13, 54, 192, 0.825);
+  cursor: pointer;
+}
+.studentinfor_form--btn--add {
+  height: 36px;
+  margin-top: 15px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgba(13, 54, 192, 0.825);
+  cursor: pointer;
+}
+label {
+  width: 100px;
+  text-align: left;
+}
+input {
+  width: 250px;
+}
+.list_table--btn--xem {
+  width: 50px;
+  height: 36px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(234, 55, 55);
+  cursor: pointer;
+}
+.list_table--btn--sua {
+  width: 50px;
+  height: 36px;
+  margin-left: 20px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(255, 191, 0);
+  cursor: pointer;
+}
+.list_table--btn--xoa {
+  width: 50px;
+  height: 36px;
+  margin-left: 20px;
+  font-size: 14px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(32, 248, 8);
+  cursor: pointer;
+}
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table {
+  margin: auto;
+}
